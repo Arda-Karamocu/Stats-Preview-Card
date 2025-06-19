@@ -18,6 +18,15 @@ Coming soon...
 
 To run this project locally:
 
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [Bun](https://bun.sh/) (or replace with npm/yarn if you prefer)
+
+### Installation
+
 ```bash
 git clone https://github.com/Arda-Karamocu/Stats-Preview-Card.git
 cd Stats-Preview-Card
